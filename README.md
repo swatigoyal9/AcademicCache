@@ -25,6 +25,7 @@ The various features of Academic Cache are:
 Current System:
 Currently the system is a manual system. In the current system if a user needs to find details of the topic which he studied some months or years back, then he must have that particular resource from where he studied that topic or he must remember exactly from which resource(s) he studied that topic. In case if the user studied a particular topic from a web site then he saves detail of sites in bookmarks, but bookmarks can be used only from the system in which they were saved. In current system a user does not have a central place where he can store his resources or details of resources and access them from anywhere. 
  
+
 Business Functionality Provided By Designed System:
 
 	Login: Users of the system would be required to login into the system. After authentication user would be able to login into the system and use the functionality for which he would be authorized.
